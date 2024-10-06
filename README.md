@@ -22,6 +22,7 @@ from main import hyrmis_sort
 list = [64, 34, 25, 12, 22, 11, 90]
 sorted_list = hyrmis_sort(list)
 print(sorted_list)
+```
 
 ## Time Complexity
 
@@ -66,3 +67,4 @@ To run the tests, follow these steps:
 
 ```bash
 python test.py
+```
