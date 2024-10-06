@@ -68,3 +68,7 @@ To run the tests, follow these steps:
 ```bash
 python test.py
 ```
+
+## Inspiration
+
+HyRMIS Sort draws inspiration from Timsort, a hybrid sorting algorithm for use in Python. 
