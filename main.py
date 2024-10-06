@@ -129,12 +129,6 @@ def counting_sort(input_list, exp):
 # Example usage:
 if __name__ == "__main__":
     data = [170, -45, 75, -90, 802, -24, 2, 66, -1, 0, 123, -500]
-    data = [170, -45, 75, -90, 802, -24, 2, 66, -1, 0, 123, -500, 10000, -10000, 1000000, -1000000, 1000000000, -1000000000]
 
     sorted_data = hyrmis_sort(data)
     print("Sorted input_listay:", sorted_data)
-
-def test_data():
-    # Generate list of 10000 random integers
-    data = [random.randint(-10000, 10000) for _ in range(10000)]    
-    return data
