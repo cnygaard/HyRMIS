@@ -131,4 +131,4 @@ if __name__ == "__main__":
     data = [170, -45, 75, -90, 802, -24, 2, 66, -1, 0, 123, -500]
 
     sorted_data = hyrmis_sort(data)
-    print("Sorted input_listay:", sorted_data)
+    print("Sorted input_list:", sorted_data)

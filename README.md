@@ -1,7 +1,7 @@
 
 # HyRMIS Sort: Hybrid Radix Merge Insertion Sort
 
-HyRMIS Sort is an efficient hybrid sorting algorithm that combines the strengths of Radix Sort, Merge Sort, and Insertion Sort to achieve optimal performance across different input sizes. This algorithm cocreated with artificial intelligence (AI) to provide a more efficient sorting solution.
+HyRMIS Sort is an efficient hybrid sorting algorithm that combines the strengths of Radix Sort, Merge Sort, and Insertion Sort to achieve optimal performance across different input sizes. This algorithm was cocreated with artificial intelligence (AI) to provide a more efficient sorting solution.
 
 ## Algorithm Overview
 
